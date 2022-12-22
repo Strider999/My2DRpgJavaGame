@@ -12,6 +12,6 @@ public class Main {
         window.setTitle("2D Adventure");
 
         window.setLocationRelativeTo(null);
-        window.setVisible(false);
+        window.setVisible(true);
     }
 }
